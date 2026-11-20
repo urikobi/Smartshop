@@ -1,1 +1,0 @@
-il-supermarket-scraper==1.1.1
